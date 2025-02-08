@@ -17,10 +17,8 @@
 * Create Server Functionality in Router
 * Update ReadMe
 * Add Tests
-* Add in way to pass head data
 
 ### CLI
-* Improve Dummy API UI
 * Add Basic BubbleTea Interface
 * Add Config to Configure HTMX as Asset in Install Flow
 * Allow Root File Path to be Chosen
@@ -40,15 +38,14 @@
   * module name
   * version
   * etc...
-
+* Create a Page Router
+  * Allows you to add page config to entire router primariliy for nested layouts
 * Add scss support
 
 ### CLI
 * Add DB to Router Creation, will Support
   * PostGres
   * SqlLite
-
-
 
 ## Version 0.3
 
